@@ -1,0 +1,221 @@
+transaction_id,city,store,product_category,product_name,unit_price,quantity,customer_type,payment_method,discount_percent,total_sale,discount_amount,final_amount
+5001,Pune,Central Mall,Home Decor,Face Cream,2386,4,Returning,Card,15,9544,1431.6,8112.4
+5002,Bangalore,City Center,Home Decor,Wall Lamp,1383,1,New,Card,10,1383,138.3,1244.7
+5003,Hyderabad,Central Mall,Clothing,Jeans,4937,1,Returning,UPI,5,4937,246.85,4690.15
+5004,Hyderabad,Smart Bazaar,Home Decor,Mixer,1470,2,Returning,UPI,10,2940,294.0,2646.0
+5005,Hyderabad,Central Mall,Beauty,Headphones,2688,1,New,Cash,10,2688,268.8,2419.2
+5006,Mysore,Urban Retail,Electronics,Rice Bag,1652,4,Returning,UPI,0,6608,0.0,6608.0
+5007,Hyderabad,Metro Mart,Home Decor,Wall Lamp,2739,2,New,Card,15,5478,821.7,4656.3
+5008,Chennai,Central Mall,Electronics,Mixer,3899,3,New,Cash,15,11697,1754.55,9942.45
+5009,Pune,Central Mall,Electronics,Wall Lamp,4628,3,Returning,UPI,10,13884,1388.4,12495.6
+5010,Bangalore,City Center,Home Decor,Wall Lamp,2414,4,Returning,Card,5,9656,482.8,9173.2
+5011,Bangalore,City Center,Clothing,T-shirt,658,1,New,UPI,15,658,98.7,559.3
+5012,Pune,Central Mall,Groceries,Mixer,3287,2,Returning,UPI,0,6574,0.0,6574.0
+5013,Chennai,Urban Retail,Home Decor,Wall Lamp,3422,3,Returning,UPI,15,10266,1539.9,8726.1
+5014,Mysore,Central Mall,Groceries,Rice Bag,1558,2,Returning,Card,0,3116,0.0,3116.0
+5015,Bangalore,Urban Retail,Home Decor,Rice Bag,1261,4,New,Card,5,5044,252.2,4791.8
+5016,Mysore,Central Mall,Electronics,Rice Bag,4027,4,Returning,UPI,10,16108,1610.8,14497.2
+5017,Mysore,Smart Bazaar,Home Decor,Mixer,2645,2,Returning,Card,5,5290,264.5,5025.5
+5018,Bangalore,Smart Bazaar,Groceries,Face Cream,2608,2,New,UPI,5,5216,260.8,4955.2
+5019,Mysore,Central Mall,Electronics,Wall Lamp,4975,4,Returning,Cash,0,19900,0.0,19900.0
+5020,Pune,City Center,Home Decor,Mixer,1677,4,New,Card,5,6708,335.4,6372.6
+5021,Hyderabad,Urban Retail,Clothing,Headphones,2661,1,New,UPI,10,2661,266.1,2394.9
+5022,Bangalore,Smart Bazaar,Beauty,Face Cream,1275,3,New,UPI,15,3825,573.75,3251.25
+5023,Hyderabad,Urban Retail,Home Decor,Jeans,1471,1,New,UPI,0,1471,0.0,1471.0
+5024,Bangalore,Metro Mart,Clothing,T-shirt,2087,2,Returning,Cash,0,4174,0.0,4174.0
+5025,Chennai,City Center,Groceries,Rice Bag,4102,3,New,Card,5,12306,615.3,11690.7
+5026,Hyderabad,City Center,Clothing,T-shirt,3265,1,New,UPI,5,3265,163.25,3101.75
+5027,Bangalore,Metro Mart,Beauty,Face Cream,1284,3,New,UPI,5,3852,192.6,3659.4
+5028,Mysore,City Center,Clothing,Shampoo,3675,1,Returning,UPI,20,3675,735.0,2940.0
+5029,Hyderabad,Smart Bazaar,Home Decor,Mixer,4620,2,New,Card,10,9240,924.0,8316.0
+5030,Hyderabad,Metro Mart,Clothing,T-shirt,3113,4,New,Cash,5,12452,622.6,11829.4
+5031,Hyderabad,Smart Bazaar,Home Decor,Shampoo,3587,3,New,Cash,20,10761,2152.2,8608.8
+5032,Bangalore,Smart Bazaar,Groceries,Face Cream,2317,2,New,UPI,0,4634,0.0,4634.0
+5033,Mysore,Metro Mart,Beauty,Jeans,4528,2,New,UPI,10,9056,905.6,8150.4
+5034,Mysore,Urban Retail,Clothing,Mixer,710,4,New,Card,20,2840,568.0,2272.0
+5035,Mysore,Urban Retail,Beauty,T-shirt,3421,4,New,UPI,0,13684,0.0,13684.0
+5036,Bangalore,City Center,Clothing,Rice Bag,4485,4,New,Cash,15,17940,2691.0,15249.0
+5037,Chennai,Metro Mart,Beauty,Mixer,2892,3,New,Card,15,8676,1301.4,7374.6
+5038,Pune,Smart Bazaar,Clothing,Jeans,4854,4,New,Card,10,19416,1941.6,17474.4
+5039,Hyderabad,Urban Retail,Groceries,Mixer,4602,3,New,UPI,20,13806,2761.2,11044.8
+5040,Hyderabad,Urban Retail,Groceries,Mixer,2024,4,New,Cash,20,8096,1619.2,6476.8
+5041,Chennai,City Center,Home Decor,Mixer,1579,1,Returning,Card,0,1579,0.0,1579.0
+5042,Pune,City Center,Clothing,Wall Lamp,2712,1,Returning,Card,15,2712,406.8,2305.2
+5043,Chennai,City Center,Groceries,Rice Bag,3486,2,New,UPI,15,6972,1045.8,5926.2
+5044,Bangalore,City Center,Groceries,Jeans,2459,1,Returning,Cash,5,2459,122.95,2336.05
+5045,Bangalore,Metro Mart,Beauty,Mixer,3516,4,Returning,Cash,20,14064,2812.8,11251.2
+5046,Pune,Central Mall,Groceries,Rice Bag,762,3,Returning,Card,10,2286,228.6,2057.4
+5047,Bangalore,Urban Retail,Groceries,Rice Bag,4695,3,New,Cash,15,14085,2112.75,11972.25
+5048,Pune,City Center,Home Decor,Wall Lamp,1803,4,Returning,UPI,10,7212,721.2,6490.8
+5049,Mysore,Smart Bazaar,Electronics,Rice Bag,721,3,Returning,UPI,10,2163,216.3,1946.7
+5050,Pune,Urban Retail,Beauty,Face Cream,3898,2,New,Card,5,7796,389.8,7406.2
+5051,Mysore,City Center,Groceries,Jeans,1051,1,Returning,Card,15,1051,157.65,893.35
+5052,Chennai,City Center,Electronics,T-shirt,2459,4,Returning,Cash,10,9836,983.6,8852.4
+5053,Chennai,Metro Mart,Electronics,Wall Lamp,3897,1,Returning,UPI,15,3897,584.55,3312.45
+5054,Bangalore,Central Mall,Groceries,Headphones,1439,1,Returning,Cash,5,1439,71.95,1367.05
+5055,Mysore,Central Mall,Home Decor,Jeans,4237,4,New,Cash,0,16948,0.0,16948.0
+5056,Mysore,Metro Mart,Clothing,Face Cream,3246,4,Returning,Card,0,12984,0.0,12984.0
+5057,Mysore,Smart Bazaar,Home Decor,Jeans,1780,1,New,UPI,0,1780,0.0,1780.0
+5058,Mysore,Central Mall,Groceries,Wall Lamp,3608,4,Returning,UPI,10,14432,1443.2,12988.8
+5059,Hyderabad,Smart Bazaar,Beauty,T-shirt,4121,1,Returning,Cash,10,4121,412.1,3708.9
+5060,Hyderabad,Urban Retail,Clothing,Wall Lamp,3811,1,Returning,UPI,10,3811,381.1,3429.9
+5061,Chennai,Urban Retail,Clothing,Shampoo,1441,1,Returning,UPI,15,1441,216.15,1224.85
+5062,Hyderabad,Central Mall,Groceries,Mixer,547,4,Returning,Cash,20,2188,437.6,1750.4
+5063,Bangalore,Central Mall,Groceries,Face Cream,2682,4,New,Card,15,10728,1609.2,9118.8
+5064,Hyderabad,Urban Retail,Beauty,Shampoo,2279,2,New,Card,0,4558,0.0,4558.0
+5065,Pune,Urban Retail,Home Decor,Face Cream,1328,1,New,Card,20,1328,265.6,1062.4
+5066,Mysore,Central Mall,Beauty,Jeans,4188,1,Returning,Cash,5,4188,209.4,3978.6
+5067,Chennai,Urban Retail,Groceries,Headphones,1861,1,New,UPI,20,1861,372.2,1488.8
+5068,Pune,Central Mall,Beauty,Rice Bag,4138,2,Returning,Cash,5,8276,413.8,7862.2
+5069,Hyderabad,Metro Mart,Groceries,T-shirt,2639,1,New,Cash,10,2639,263.9,2375.1
+5070,Pune,City Center,Clothing,Jeans,1319,2,New,Card,0,2638,0.0,2638.0
+5071,Pune,Central Mall,Beauty,Mixer,4859,2,New,UPI,10,9718,971.8,8746.2
+5072,Pune,Smart Bazaar,Electronics,Face Cream,4207,4,Returning,Card,15,16828,2524.2,14303.8
+5073,Hyderabad,Central Mall,Clothing,Face Cream,3466,2,New,UPI,10,6932,693.2,6238.8
+5074,Pune,Urban Retail,Electronics,T-shirt,333,4,Returning,UPI,10,1332,133.2,1198.8
+5075,Pune,Smart Bazaar,Groceries,Jeans,3418,3,New,Card,20,10254,2050.8,8203.2
+5076,Pune,Smart Bazaar,Electronics,Mixer,4357,1,Returning,Card,5,4357,217.85,4139.15
+5077,Bangalore,City Center,Home Decor,Face Cream,2977,3,Returning,Cash,0,8931,0.0,8931.0
+5078,Pune,Central Mall,Groceries,Headphones,4216,1,Returning,UPI,10,4216,421.6,3794.4
+5079,Hyderabad,Metro Mart,Electronics,Headphones,2436,2,Returning,UPI,10,4872,487.2,4384.8
+5080,Chennai,Smart Bazaar,Groceries,Rice Bag,2499,4,Returning,UPI,5,9996,499.8,9496.2
+5081,Bangalore,Smart Bazaar,Home Decor,Mixer,2972,2,Returning,UPI,15,5944,891.6,5052.4
+5082,Mysore,Metro Mart,Electronics,Jeans,4078,1,Returning,UPI,15,4078,611.7,3466.3
+5083,Mysore,Smart Bazaar,Electronics,Shampoo,2691,1,Returning,Cash,20,2691,538.2,2152.8
+5084,Hyderabad,Urban Retail,Clothing,Shampoo,2748,2,Returning,UPI,5,5496,274.8,5221.2
+5085,Bangalore,Metro Mart,Electronics,Jeans,4297,1,Returning,Cash,10,4297,429.7,3867.3
+5086,Bangalore,Urban Retail,Electronics,Jeans,1190,1,New,Card,15,1190,178.5,1011.5
+5087,Mysore,Central Mall,Groceries,Wall Lamp,3952,3,Returning,Cash,15,11856,1778.4,10077.6
+5088,Chennai,Central Mall,Home Decor,T-shirt,2032,2,New,Cash,0,4064,0.0,4064.0
+5089,Pune,Central Mall,Beauty,Shampoo,4676,3,New,Cash,0,14028,0.0,14028.0
+5090,Chennai,Urban Retail,Home Decor,Headphones,795,2,Returning,Card,20,1590,318.0,1272.0
+5091,Bangalore,Smart Bazaar,Home Decor,Headphones,4189,3,New,UPI,15,12567,1885.05,10681.95
+5092,Hyderabad,Smart Bazaar,Electronics,Headphones,1593,4,Returning,Cash,15,6372,955.8,5416.2
+5093,Chennai,Metro Mart,Beauty,Headphones,2889,1,Returning,Card,5,2889,144.45,2744.55
+5094,Chennai,Metro Mart,Beauty,Mixer,3580,1,New,Cash,0,3580,0.0,3580.0
+5095,Bangalore,Smart Bazaar,Home Decor,Rice Bag,911,2,Returning,Cash,0,1822,0.0,1822.0
+5096,Mysore,City Center,Groceries,Face Cream,1097,2,New,Card,15,2194,329.1,1864.9
+5097,Bangalore,Urban Retail,Beauty,Jeans,4147,2,New,Cash,20,8294,1658.8,6635.2
+5098,Chennai,Urban Retail,Beauty,Headphones,4941,3,New,Cash,15,14823,2223.45,12599.55
+5099,Chennai,Urban Retail,Home Decor,Jeans,775,2,New,UPI,10,1550,155.0,1395.0
+5100,Hyderabad,City Center,Clothing,Rice Bag,545,1,Returning,Card,0,545,0.0,545.0
+5101,Chennai,Metro Mart,Beauty,Shampoo,2649,2,Returning,Cash,0,5298,0.0,5298.0
+5102,Hyderabad,Metro Mart,Home Decor,Mixer,4112,1,Returning,Card,5,4112,205.6,3906.4
+5103,Chennai,Urban Retail,Clothing,Wall Lamp,3533,3,New,Card,20,10599,2119.8,8479.2
+5104,Mysore,Metro Mart,Home Decor,Jeans,2705,1,Returning,UPI,5,2705,135.25,2569.75
+5105,Chennai,Urban Retail,Home Decor,Face Cream,4750,4,New,UPI,0,19000,0.0,19000.0
+5106,Hyderabad,Smart Bazaar,Groceries,Wall Lamp,3339,1,New,UPI,20,3339,667.8,2671.2
+5107,Hyderabad,Smart Bazaar,Electronics,Shampoo,4207,4,New,Cash,15,16828,2524.2,14303.8
+5108,Hyderabad,Metro Mart,Clothing,Face Cream,3458,3,New,Cash,15,10374,1556.1,8817.9
+5109,Chennai,City Center,Electronics,Jeans,4249,1,New,Cash,20,4249,849.8,3399.2
+5110,Hyderabad,Metro Mart,Clothing,Face Cream,315,3,New,Cash,10,945,94.5,850.5
+5111,Pune,Central Mall,Clothing,Face Cream,1565,3,Returning,Cash,15,4695,704.25,3990.75
+5112,Mysore,Urban Retail,Beauty,Rice Bag,1971,4,Returning,Cash,5,7884,394.2,7489.8
+5113,Chennai,Central Mall,Groceries,T-shirt,1252,3,Returning,Card,15,3756,563.4,3192.6
+5114,Hyderabad,Metro Mart,Groceries,Wall Lamp,4001,1,New,Card,15,4001,600.15,3400.85
+5115,Mysore,Smart Bazaar,Home Decor,Face Cream,3167,4,New,UPI,10,12668,1266.8,11401.2
+5116,Chennai,Urban Retail,Electronics,Mixer,673,3,Returning,Cash,15,2019,302.85,1716.15
+5117,Mysore,Metro Mart,Home Decor,Shampoo,2833,2,Returning,Card,5,5666,283.3,5382.7
+5118,Pune,City Center,Groceries,Face Cream,253,4,Returning,UPI,5,1012,50.6,961.4
+5119,Chennai,Metro Mart,Home Decor,Headphones,849,1,New,UPI,5,849,42.45,806.55
+5120,Hyderabad,City Center,Groceries,Jeans,3915,1,Returning,UPI,0,3915,0.0,3915.0
+5121,Bangalore,Smart Bazaar,Groceries,Headphones,598,2,Returning,UPI,15,1196,179.4,1016.6
+5122,Hyderabad,City Center,Clothing,Shampoo,3950,4,New,Card,15,15800,2370.0,13430.0
+5123,Chennai,Central Mall,Home Decor,Shampoo,3617,2,New,Card,20,7234,1446.8,5787.2
+5124,Hyderabad,Central Mall,Clothing,Rice Bag,2674,4,Returning,Card,10,10696,1069.6,9626.4
+5125,Bangalore,Central Mall,Home Decor,Face Cream,3047,4,Returning,UPI,0,12188,0.0,12188.0
+5126,Bangalore,Central Mall,Groceries,Wall Lamp,4685,2,New,UPI,15,9370,1405.5,7964.5
+5127,Bangalore,Central Mall,Groceries,Jeans,3237,2,New,Cash,5,6474,323.7,6150.3
+5128,Hyderabad,City Center,Beauty,Wall Lamp,281,4,New,Cash,0,1124,0.0,1124.0
+5129,Chennai,Central Mall,Clothing,Headphones,2670,3,New,UPI,0,8010,0.0,8010.0
+5130,Hyderabad,Urban Retail,Electronics,Headphones,363,4,Returning,Card,5,1452,72.6,1379.4
+5131,Bangalore,City Center,Home Decor,T-shirt,3506,1,Returning,UPI,20,3506,701.2,2804.8
+5132,Pune,Smart Bazaar,Electronics,Face Cream,4048,1,Returning,Cash,15,4048,607.2,3440.8
+5133,Bangalore,City Center,Beauty,Face Cream,3947,2,Returning,Cash,10,7894,789.4,7104.6
+5134,Bangalore,Metro Mart,Groceries,Jeans,1764,4,Returning,Card,20,7056,1411.2,5644.8
+5135,Chennai,Smart Bazaar,Clothing,Shampoo,3077,3,New,UPI,10,9231,923.1,8307.9
+5136,Hyderabad,Central Mall,Electronics,Headphones,983,3,New,Cash,10,2949,294.9,2654.1
+5137,Chennai,Central Mall,Clothing,Mixer,1441,2,Returning,Card,15,2882,432.3,2449.7
+5138,Hyderabad,Metro Mart,Groceries,Headphones,1455,2,New,Cash,0,2910,0.0,2910.0
+5139,Bangalore,Central Mall,Clothing,Headphones,1533,2,Returning,Card,5,3066,153.3,2912.7
+5140,Bangalore,Smart Bazaar,Clothing,T-shirt,1008,2,Returning,Cash,10,2016,201.6,1814.4
+5141,Bangalore,Smart Bazaar,Home Decor,Jeans,4995,3,Returning,Cash,20,14985,2997.0,11988.0
+5142,Hyderabad,Smart Bazaar,Electronics,T-shirt,3220,1,Returning,UPI,15,3220,483.0,2737.0
+5143,Bangalore,City Center,Beauty,T-shirt,806,3,New,Card,15,2418,362.7,2055.3
+5144,Chennai,City Center,Clothing,Face Cream,3479,1,Returning,Card,20,3479,695.8,2783.2
+5145,Chennai,Smart Bazaar,Clothing,Mixer,2726,1,Returning,Cash,10,2726,272.6,2453.4
+5146,Bangalore,City Center,Beauty,Shampoo,2743,1,Returning,UPI,10,2743,274.3,2468.7
+5147,Pune,City Center,Electronics,Mixer,3255,3,New,Cash,10,9765,976.5,8788.5
+5148,Hyderabad,Urban Retail,Groceries,Mixer,1660,4,Returning,Cash,20,6640,1328.0,5312.0
+5149,Pune,City Center,Home Decor,T-shirt,958,2,New,Cash,10,1916,191.6,1724.4
+5150,Bangalore,Urban Retail,Beauty,Face Cream,2526,2,New,Card,20,5052,1010.4,4041.6
+5151,Pune,Urban Retail,Clothing,Headphones,2403,4,Returning,UPI,15,9612,1441.8,8170.2
+5152,Hyderabad,City Center,Groceries,Face Cream,1280,3,New,Cash,20,3840,768.0,3072.0
+5153,Hyderabad,City Center,Home Decor,Shampoo,745,3,New,Cash,5,2235,111.75,2123.25
+5154,Pune,City Center,Beauty,Mixer,1590,4,Returning,Cash,0,6360,0.0,6360.0
+5155,Mysore,Central Mall,Clothing,Shampoo,474,1,Returning,Card,0,474,0.0,474.0
+5156,Hyderabad,Urban Retail,Electronics,Wall Lamp,812,3,New,Cash,5,2436,121.8,2314.2
+5157,Bangalore,Central Mall,Beauty,Mixer,229,1,Returning,Card,20,229,45.8,183.2
+5158,Bangalore,Smart Bazaar,Clothing,Shampoo,233,3,New,Card,0,699,0.0,699.0
+5159,Bangalore,City Center,Groceries,Jeans,3017,4,Returning,Card,5,12068,603.4,11464.6
+5160,Mysore,Smart Bazaar,Beauty,Mixer,3618,2,Returning,Card,10,7236,723.6,6512.4
+5161,Bangalore,Central Mall,Home Decor,Rice Bag,2883,2,Returning,Card,5,5766,288.3,5477.7
+5162,Pune,Urban Retail,Electronics,Mixer,1791,2,New,UPI,0,3582,0.0,3582.0
+5163,Mysore,Metro Mart,Beauty,Mixer,998,3,New,Card,20,2994,598.8,2395.2
+5164,Hyderabad,City Center,Beauty,Headphones,3292,4,New,Card,20,13168,2633.6,10534.4
+5165,Mysore,Smart Bazaar,Electronics,Wall Lamp,3956,1,Returning,Cash,20,3956,791.2,3164.8
+5166,Bangalore,Smart Bazaar,Groceries,Shampoo,1881,2,New,UPI,0,3762,0.0,3762.0
+5167,Bangalore,Smart Bazaar,Home Decor,Shampoo,1510,1,Returning,UPI,10,1510,151.0,1359.0
+5168,Pune,Central Mall,Clothing,Rice Bag,1303,2,Returning,Cash,20,2606,521.2,2084.8
+5169,Hyderabad,Central Mall,Groceries,Wall Lamp,1992,1,New,Card,15,1992,298.8,1693.2
+5170,Hyderabad,Metro Mart,Clothing,Shampoo,513,3,Returning,UPI,10,1539,153.9,1385.1
+5171,Mysore,Central Mall,Home Decor,Mixer,4712,3,New,Card,5,14136,706.8,13429.2
+5172,Bangalore,Urban Retail,Groceries,Shampoo,2536,1,Returning,Cash,15,2536,380.4,2155.6
+5173,Bangalore,Urban Retail,Beauty,Mixer,847,3,New,UPI,10,2541,254.1,2286.9
+5174,Mysore,Smart Bazaar,Groceries,Rice Bag,3628,1,Returning,Card,0,3628,0.0,3628.0
+5175,Chennai,City Center,Clothing,Rice Bag,1061,3,Returning,UPI,15,3183,477.45,2705.55
+5176,Bangalore,Smart Bazaar,Beauty,Mixer,3762,3,New,UPI,10,11286,1128.6,10157.4
+5177,Hyderabad,Urban Retail,Electronics,T-shirt,3549,1,New,Card,10,3549,354.9,3194.1
+5178,Mysore,Urban Retail,Groceries,Wall Lamp,4559,2,Returning,Card,10,9118,911.8,8206.2
+5179,Mysore,Urban Retail,Groceries,Shampoo,3024,2,New,UPI,10,6048,604.8,5443.2
+5180,Pune,Smart Bazaar,Beauty,Jeans,2414,4,Returning,Cash,20,9656,1931.2,7724.8
+5181,Bangalore,Metro Mart,Groceries,Wall Lamp,2467,4,Returning,UPI,15,9868,1480.2,8387.8
+5182,Bangalore,City Center,Beauty,Headphones,228,2,Returning,Cash,10,456,45.6,410.4
+5183,Hyderabad,Metro Mart,Electronics,Jeans,3522,1,Returning,UPI,5,3522,176.1,3345.9
+5184,Chennai,Metro Mart,Groceries,Face Cream,3313,4,Returning,Card,10,13252,1325.2,11926.8
+5185,Hyderabad,City Center,Clothing,Jeans,2195,2,New,Cash,20,4390,878.0,3512.0
+5186,Chennai,Urban Retail,Groceries,Jeans,1773,3,New,Cash,15,5319,797.85,4521.15
+5187,Pune,Urban Retail,Beauty,Jeans,1763,2,New,UPI,15,3526,528.9,2997.1
+5188,Hyderabad,Smart Bazaar,Beauty,Wall Lamp,660,4,Returning,UPI,10,2640,264.0,2376.0
+5189,Hyderabad,Smart Bazaar,Clothing,Wall Lamp,4356,3,New,Cash,10,13068,1306.8,11761.2
+5190,Bangalore,Metro Mart,Clothing,Headphones,4786,2,New,Card,5,9572,478.6,9093.4
+5191,Hyderabad,City Center,Beauty,Headphones,2247,2,New,Cash,15,4494,674.1,3819.9
+5192,Bangalore,City Center,Beauty,T-shirt,2541,1,Returning,Cash,15,2541,381.15,2159.85
+5193,Pune,Central Mall,Groceries,Jeans,1648,3,New,Card,15,4944,741.6,4202.4
+5194,Chennai,Central Mall,Beauty,Face Cream,1926,3,New,Card,0,5778,0.0,5778.0
+5195,Hyderabad,Metro Mart,Clothing,Face Cream,1368,3,New,UPI,15,4104,615.6,3488.4
+5196,Pune,Smart Bazaar,Groceries,T-shirt,2471,2,Returning,UPI,15,4942,741.3,4200.7
+5197,Bangalore,Urban Retail,Beauty,Jeans,1494,2,New,UPI,5,2988,149.4,2838.6
+5198,Chennai,Urban Retail,Electronics,Jeans,386,4,Returning,Card,5,1544,77.2,1466.8
+5199,Hyderabad,Metro Mart,Clothing,Jeans,4908,1,Returning,Cash,20,4908,981.6,3926.4
+5200,Hyderabad,City Center,Electronics,Headphones,2277,4,New,Card,5,9108,455.4,8652.6
+5201,Mysore,Central Mall,Groceries,Mixer,1336,1,Returning,UPI,15,1336,200.4,1135.6
+5202,Hyderabad,Smart Bazaar,Clothing,Headphones,3902,4,New,Cash,15,15608,2341.2,13266.8
+5203,Pune,City Center,Groceries,Headphones,3212,1,Returning,UPI,15,3212,481.8,2730.2
+5204,Hyderabad,Smart Bazaar,Home Decor,Mixer,523,4,New,Cash,5,2092,104.6,1987.4
+5205,Hyderabad,Smart Bazaar,Clothing,Mixer,3382,2,New,Card,10,6764,676.4,6087.6
+5206,Mysore,Metro Mart,Groceries,Shampoo,2624,1,Returning,UPI,0,2624,0.0,2624.0
+5207,Mysore,Central Mall,Electronics,Wall Lamp,1557,3,New,Card,20,4671,934.2,3736.8
+5208,Mysore,Central Mall,Groceries,Face Cream,761,1,Returning,Card,10,761,76.1,684.9
+5209,Hyderabad,Urban Retail,Beauty,Face Cream,4145,4,New,Card,0,16580,0.0,16580.0
+5210,Chennai,City Center,Beauty,Rice Bag,2502,2,Returning,Cash,5,5004,250.2,4753.8
+5211,Chennai,City Center,Electronics,Rice Bag,1824,1,Returning,Card,20,1824,364.8,1459.2
+5212,Pune,Central Mall,Groceries,Wall Lamp,1447,3,Returning,Card,20,4341,868.2,3472.8
+5213,Hyderabad,Smart Bazaar,Clothing,Wall Lamp,4717,3,Returning,Cash,5,14151,707.55,13443.45
+5214,Mysore,Urban Retail,Electronics,Mixer,2483,3,Returning,Card,10,7449,744.9,6704.1
+5215,Chennai,Urban Retail,Groceries,Face Cream,4860,2,New,Card,0,9720,0.0,9720.0
+5216,Hyderabad,Smart Bazaar,Home Decor,Jeans,1809,3,New,Card,15,5427,814.05,4612.95
+5217,Mysore,Urban Retail,Beauty,Rice Bag,4696,1,Returning,Cash,15,4696,704.4,3991.6
+5218,Pune,Smart Bazaar,Electronics,Jeans,3699,4,New,Cash,0,14796,0.0,14796.0
+5219,Chennai,Urban Retail,Groceries,T-shirt,2845,4,New,UPI,15,11380,1707.0,9673.0
+5220,Chennai,Central Mall,Home Decor,Headphones,2783,1,Returning,Card,10,2783,278.3,2504.7

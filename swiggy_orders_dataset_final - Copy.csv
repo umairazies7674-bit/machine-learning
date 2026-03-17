@@ -1,0 +1,601 @@
+Order_ID,City,Restaurant,Cuisine,Delivery_Time,Customer_Rating,Discount,Order_Value
+1001,Chennai,Spice Kitchen,Italian,48,4.1,10,654
+1002,Mumbai,Biryani Palace,Indian,25,4.97,0,471
+1003,Hyderabad,Street Eats,Chinese,55,4.73,15,621
+1004,Mumbai,Dosa Corner,Fast Food,17,4.28,0,395
+1005,Mumbai,Taste of India,Italian,42,3.68,15,534
+1006,Mysore,Burger Point,Italian,43,4.79,5,608
+1007,Hyderabad,Street Eats,Indian,23,4.7,5,543
+1008,Hyderabad,Taste of India,Desserts,17,3.78,20,722
+1009,Hyderabad,Curry House,Fast Food,39,3.94,10,397
+1010,Mumbai,Street Eats,South Indian,48,4.69,20,685
+1011,Chennai,Chaat Junction,Italian,26,3.78,15,608
+1012,Hyderabad,Cafe Delight,Indian,56,4.88,20,802
+1013,Pune,Biryani Palace,South Indian,23,4.14,0,677
+1014,Mumbai,Burger Point,Desserts,29,3.63,15,659
+1015,Mysore,Royal Bites,Fast Food,54,4.72,5,726
+1016,Chennai,Cafe Delight,Desserts,39,4.06,10,691
+1017,Pune,Tandoori Treats,Italian,19,4.29,15,692
+1018,Pune,Tandoori Treats,South Indian,25,3.67,15,497
+1019,Mysore,Burger Point,South Indian,48,3.5,0,387
+1020,Chennai,Street Eats,South Indian,38,4.46,10,470
+1021,Mumbai,Taste of India,Italian,29,4.27,5,430
+1022,Bangalore,Biryani Palace,Italian,52,4.39,15,402
+1023,Chennai,Flavour Town,Desserts,22,4.69,15,492
+1024,Mysore,Tandoori Treats,Chinese,19,4.47,0,451
+1025,Pune,Biryani Palace,Desserts,40,3.76,20,488
+1026,Mumbai,Tandoori Treats,Fast Food,32,4.04,5,708
+1027,Chennai,Curry House,Indian,20,4.86,10,531
+1028,Bangalore,Taste of India,South Indian,51,4.65,15,776
+1029,Bangalore,Curry House,Chinese,27,4.33,15,464
+1030,Hyderabad,Dosa Corner,Indian,42,3.88,5,616
+1031,Hyderabad,Tandoori Treats,Chinese,19,3.95,20,783
+1032,Mysore,Royal Bites,Desserts,27,4.6,15,682
+1033,Chennai,Royal Bites,Italian,31,4.78,5,469
+1034,Chennai,Curry House,South Indian,54,4.51,0,347
+1035,Pune,Chaat Junction,Desserts,59,4.71,20,543
+1036,Pune,Cafe Delight,Indian,46,4.65,10,527
+1037,Pune,Royal Bites,Indian,43,3.72,15,433
+1038,Hyderabad,Tandoori Treats,Indian,17,4.14,5,375
+1039,Chennai,Burger Point,Indian,54,3.73,0,412
+1040,Chennai,Curry House,Indian,48,3.85,10,716
+1041,Bangalore,Dosa Corner,Chinese,54,4.8,5,702
+1042,Hyderabad,Flavour Town,Desserts,41,4.21,5,479
+1043,Mumbai,Flavour Town,South Indian,27,4.3,10,556
+1044,Hyderabad,Pizza Hub,Italian,59,3.77,0,642
+1045,Mumbai,Cafe Delight,Italian,47,3.97,0,668
+1046,Bangalore,Street Eats,Desserts,20,3.85,20,695
+1047,Mysore,Taste of India,Desserts,38,3.81,15,547
+1048,Chennai,Royal Bites,Italian,33,4.46,10,457
+1049,Bangalore,Royal Bites,Italian,30,3.89,10,757
+1050,Chennai,Street Eats,Chinese,54,4.45,10,706
+1051,Pune,Spice Kitchen,Fast Food,42,3.59,0,417
+1052,Mysore,Dosa Corner,South Indian,47,3.71,15,339
+1053,Mysore,Urban Tadka,Indian,55,3.91,20,552
+1054,Bangalore,Curry House,Fast Food,27,4.4,5,722
+1055,Mysore,Chaat Junction,Desserts,57,4.51,5,521
+1056,Mumbai,Dosa Corner,Italian,59,4.16,10,307
+1057,Mysore,Food Factory,Fast Food,39,4.17,15,445
+1058,Chennai,Royal Bites,South Indian,56,4.59,0,682
+1059,Chennai,Taste of India,Desserts,50,3.52,15,328
+1060,Chennai,Pizza Hub,Indian,41,4.01,15,699
+1061,Chennai,Flavour Town,Indian,52,4.73,0,286
+1062,Mumbai,Royal Bites,South Indian,21,4.4,10,622
+1063,Hyderabad,Pizza Hub,South Indian,19,4.01,15,792
+1064,Pune,Tandoori Treats,Italian,57,4.86,5,581
+1065,Bangalore,Dosa Corner,Indian,59,4.66,0,358
+1066,Chennai,Tandoori Treats,Desserts,45,3.9,20,552
+1067,Mysore,Urban Tadka,Fast Food,37,4.47,10,354
+1068,Chennai,Burger Point,Desserts,56,4.39,0,597
+1069,Mysore,Food Factory,Chinese,24,4.1,20,595
+1070,Pune,Dosa Corner,Chinese,46,4.05,20,495
+1071,Pune,Spice Kitchen,South Indian,57,4.02,15,609
+1072,Pune,Urban Tadka,Italian,44,4.43,15,646
+1073,Mysore,Biryani Palace,Chinese,53,4.16,15,727
+1074,Chennai,Spice Kitchen,Indian,45,4.75,0,386
+1075,Pune,Cafe Delight,Desserts,32,4.5,0,594
+1076,Mumbai,Curry House,Desserts,50,3.6,10,642
+1077,Mysore,Taste of India,South Indian,16,4.46,15,411
+1078,Mysore,Dosa Corner,Fast Food,28,3.91,20,412
+1079,Chennai,Biryani Palace,South Indian,27,4.39,5,672
+1080,Mysore,Biryani Palace,Fast Food,43,4.52,10,631
+1081,Mysore,Urban Tadka,South Indian,26,3.85,0,417
+1082,Pune,Street Eats,South Indian,53,4.19,10,559
+1083,Chennai,Cafe Delight,South Indian,16,3.79,10,558
+1084,Pune,Burger Point,Fast Food,46,3.58,10,523
+1085,Pune,Dosa Corner,Fast Food,27,4.07,10,690
+1086,Chennai,Street Eats,South Indian,41,4.04,5,666
+1087,Bangalore,Urban Tadka,Chinese,55,4.99,15,370
+1088,Pune,Curry House,Italian,31,4.17,20,588
+1089,Mumbai,Flavour Town,Italian,54,4.0,10,523
+1090,Mumbai,Royal Bites,Italian,45,4.37,10,716
+1091,Mysore,Royal Bites,Fast Food,48,3.63,10,386
+1092,Mumbai,Burger Point,Fast Food,38,4.94,15,407
+1093,Mysore,Curry House,Chinese,59,4.45,0,642
+1094,Bangalore,Chaat Junction,Italian,49,4.63,0,291
+1095,Chennai,Burger Point,Italian,20,3.76,5,437
+1096,Chennai,Dosa Corner,South Indian,33,4.11,0,602
+1097,Chennai,Dosa Corner,Fast Food,44,4.13,10,477
+1098,Mumbai,Pizza Hub,Italian,21,4.73,10,673
+1099,Bangalore,Street Eats,Desserts,24,3.5,10,750
+1100,Mumbai,Chaat Junction,Chinese,55,3.95,5,366
+1101,Mumbai,Royal Bites,Desserts,46,4.97,10,451
+1102,Bangalore,Biryani Palace,Desserts,48,4.21,0,602
+1103,Bangalore,Street Eats,Chinese,42,4.07,15,509
+1104,Bangalore,Food Factory,Desserts,29,3.68,15,573
+1105,Bangalore,Dosa Corner,Italian,44,4.96,20,556
+1106,Chennai,Cafe Delight,Fast Food,51,3.53,0,622
+1107,Hyderabad,Taste of India,Chinese,43,4.61,10,547
+1108,Hyderabad,Curry House,South Indian,36,4.65,15,630
+1109,Bangalore,Spice Kitchen,Desserts,18,3.87,0,545
+1110,Hyderabad,Burger Point,Chinese,34,4.51,15,655
+1111,Hyderabad,Dosa Corner,Indian,46,3.64,10,563
+1112,Bangalore,Street Eats,Indian,50,3.89,15,322
+1113,Hyderabad,Chaat Junction,Fast Food,18,4.68,20,442
+1114,Mumbai,Taste of India,Italian,41,4.8,20,717
+1115,Mysore,Cafe Delight,Fast Food,31,4.41,15,791
+1116,Mysore,Street Eats,Fast Food,26,4.26,0,437
+1117,Bangalore,Spice Kitchen,Fast Food,36,3.74,0,283
+1118,Chennai,Taste of India,Fast Food,31,3.59,0,565
+1119,Bangalore,Food Factory,South Indian,24,3.68,15,780
+1120,Chennai,Spice Kitchen,South Indian,15,3.84,0,349
+1121,Mysore,Urban Tadka,Chinese,36,4.01,10,672
+1122,Bangalore,Tandoori Treats,Indian,40,4.07,20,384
+1123,Pune,Urban Tadka,Fast Food,32,4.02,10,573
+1124,Mumbai,Royal Bites,Chinese,28,3.86,0,504
+1125,Hyderabad,Street Eats,Indian,43,4.26,10,544
+1126,Chennai,Dosa Corner,Desserts,26,4.74,0,320
+1127,Pune,Dosa Corner,Italian,50,3.92,15,633
+1128,Hyderabad,Dosa Corner,South Indian,49,4.91,10,385
+1129,Hyderabad,Cafe Delight,Desserts,26,4.81,15,503
+1130,Bangalore,Tandoori Treats,Indian,21,3.74,15,402
+1131,Hyderabad,Urban Tadka,Desserts,43,4.68,5,447
+1132,Mumbai,Tandoori Treats,Italian,25,4.36,0,346
+1133,Pune,Flavour Town,Indian,47,4.35,20,410
+1134,Hyderabad,Street Eats,Desserts,20,4.09,0,591
+1135,Bangalore,Tandoori Treats,South Indian,29,4.25,20,437
+1136,Mumbai,Biryani Palace,South Indian,46,4.1,0,331
+1137,Mysore,Burger Point,Chinese,25,4.31,15,412
+1138,Pune,Burger Point,Desserts,37,4.44,10,345
+1139,Hyderabad,Biryani Palace,Fast Food,40,4.51,10,496
+1140,Bangalore,Taste of India,Desserts,48,4.3,5,390
+1141,Mysore,Pizza Hub,Indian,48,4.58,20,654
+1142,Mysore,Cafe Delight,Indian,43,3.71,20,603
+1143,Chennai,Taste of India,Desserts,18,3.82,20,717
+1144,Mumbai,Spice Kitchen,Italian,31,4.73,15,732
+1145,Hyderabad,Chaat Junction,South Indian,49,3.98,20,747
+1146,Bangalore,Cafe Delight,Indian,27,3.53,10,445
+1147,Chennai,Cafe Delight,South Indian,55,3.73,15,470
+1148,Mumbai,Spice Kitchen,Indian,53,3.84,0,648
+1149,Chennai,Tandoori Treats,Chinese,29,4.94,20,798
+1150,Pune,Urban Tadka,Fast Food,43,4.36,20,482
+1151,Mumbai,Urban Tadka,Indian,43,4.9,0,395
+1152,Mumbai,Burger Point,South Indian,25,4.36,20,410
+1153,Hyderabad,Curry House,Chinese,46,4.22,0,530
+1154,Mumbai,Taste of India,Indian,16,3.97,15,545
+1155,Chennai,Flavour Town,Italian,28,4.41,10,713
+1156,Mumbai,Street Eats,Fast Food,34,3.71,0,280
+1157,Hyderabad,Royal Bites,Indian,36,4.85,5,353
+1158,Hyderabad,Food Factory,Chinese,25,4.74,0,479
+1159,Pune,Urban Tadka,Italian,41,3.98,20,768
+1160,Chennai,Street Eats,Desserts,17,4.93,15,628
+1161,Mysore,Food Factory,Chinese,31,4.74,15,754
+1162,Mysore,Street Eats,Chinese,58,4.5,0,447
+1163,Mumbai,Tandoori Treats,Italian,42,3.68,10,641
+1164,Pune,Food Factory,Chinese,43,4.22,5,521
+1165,Bangalore,Royal Bites,Italian,35,4.26,15,673
+1166,Mumbai,Street Eats,Indian,30,3.85,20,707
+1167,Pune,Biryani Palace,Italian,51,3.62,20,451
+1168,Chennai,Royal Bites,Italian,34,4.67,10,500
+1169,Chennai,Food Factory,Fast Food,20,3.68,15,619
+1170,Chennai,Royal Bites,Italian,33,4.39,0,460
+1171,Chennai,Street Eats,Italian,19,4.9,20,526
+1172,Chennai,Pizza Hub,Desserts,17,4.81,10,463
+1173,Pune,Street Eats,Indian,15,3.92,15,548
+1174,Pune,Street Eats,Fast Food,52,4.78,15,635
+1175,Hyderabad,Tandoori Treats,Desserts,29,3.5,15,510
+1176,Mysore,Taste of India,South Indian,48,3.53,15,477
+1177,Chennai,Biryani Palace,Indian,49,4.4,15,528
+1178,Bangalore,Flavour Town,Indian,39,4.05,20,539
+1179,Pune,Urban Tadka,South Indian,38,4.08,10,538
+1180,Bangalore,Cafe Delight,Italian,26,4.35,15,599
+1181,Bangalore,Spice Kitchen,Desserts,32,3.79,5,449
+1182,Bangalore,Taste of India,Chinese,29,3.82,5,713
+1183,Hyderabad,Spice Kitchen,Fast Food,58,4.23,10,432
+1184,Pune,Tandoori Treats,Chinese,30,4.63,0,689
+1185,Bangalore,Biryani Palace,South Indian,41,4.43,0,501
+1186,Chennai,Dosa Corner,Indian,22,3.95,0,433
+1187,Mumbai,Street Eats,Indian,39,4.15,5,326
+1188,Bangalore,Dosa Corner,Fast Food,31,3.76,0,317
+1189,Hyderabad,Dosa Corner,Indian,43,3.61,20,783
+1190,Pune,Chaat Junction,Indian,22,4.67,15,391
+1191,Hyderabad,Burger Point,Fast Food,29,3.9,5,539
+1192,Bangalore,Dosa Corner,Desserts,41,3.77,10,613
+1193,Pune,Urban Tadka,Desserts,21,4.54,10,481
+1194,Mumbai,Pizza Hub,Fast Food,17,4.43,15,392
+1195,Bangalore,Burger Point,South Indian,43,4.45,5,316
+1196,Hyderabad,Tandoori Treats,Indian,58,3.84,0,441
+1197,Mysore,Cafe Delight,Indian,38,3.85,0,300
+1198,Chennai,Taste of India,South Indian,17,3.83,20,754
+1199,Hyderabad,Pizza Hub,Desserts,34,3.76,20,493
+1200,Pune,Royal Bites,Italian,29,4.48,0,521
+1201,Bangalore,Food Factory,Italian,39,4.77,10,453
+1202,Chennai,Chaat Junction,Italian,44,4.59,10,636
+1203,Bangalore,Pizza Hub,Desserts,28,4.69,20,563
+1204,Pune,Flavour Town,Desserts,21,4.11,15,694
+1205,Bangalore,Dosa Corner,South Indian,31,4.48,0,555
+1206,Mysore,Tandoori Treats,Indian,58,4.03,20,565
+1207,Chennai,Curry House,South Indian,34,4.29,20,596
+1208,Chennai,Food Factory,South Indian,50,4.22,0,302
+1209,Pune,Spice Kitchen,Desserts,23,3.77,0,486
+1210,Mysore,Urban Tadka,Italian,52,4.08,10,358
+1211,Hyderabad,Spice Kitchen,Chinese,36,4.95,15,510
+1212,Bangalore,Pizza Hub,Indian,16,3.87,15,463
+1213,Mumbai,Cafe Delight,Desserts,38,3.7,0,446
+1214,Bangalore,Spice Kitchen,Italian,22,4.13,5,725
+1215,Bangalore,Flavour Town,Chinese,25,4.69,20,563
+1216,Hyderabad,Tandoori Treats,Chinese,27,4.37,20,489
+1217,Bangalore,Royal Bites,Desserts,31,4.52,0,518
+1218,Mysore,Cafe Delight,Fast Food,22,3.78,5,710
+1219,Mysore,Taste of India,Indian,35,4.43,10,539
+1220,Chennai,Urban Tadka,Chinese,32,3.99,0,349
+1221,Pune,Flavour Town,Desserts,44,4.75,0,410
+1222,Mumbai,Flavour Town,Desserts,32,4.44,20,816
+1223,Bangalore,Spice Kitchen,Italian,45,3.8,0,465
+1224,Bangalore,Dosa Corner,Fast Food,52,3.6,0,234
+1225,Hyderabad,Spice Kitchen,Indian,46,3.56,0,326
+1226,Pune,Pizza Hub,South Indian,25,4.06,20,485
+1227,Mysore,Taste of India,Italian,59,3.9,10,677
+1228,Mumbai,Burger Point,Chinese,39,4.47,10,449
+1229,Chennai,Cafe Delight,Chinese,47,4.25,0,395
+1230,Mysore,Spice Kitchen,Italian,52,3.9,20,654
+1231,Pune,Tandoori Treats,Desserts,55,3.72,10,377
+1232,Chennai,Curry House,Chinese,22,3.69,10,754
+1233,Hyderabad,Urban Tadka,Fast Food,25,4.8,10,692
+1234,Hyderabad,Street Eats,Indian,36,3.87,20,503
+1235,Bangalore,Spice Kitchen,Fast Food,38,4.48,20,670
+1236,Pune,Tandoori Treats,Chinese,55,4.72,0,299
+1237,Mumbai,Cafe Delight,South Indian,31,4.42,15,641
+1238,Chennai,Tandoori Treats,Indian,26,4.79,10,592
+1239,Mysore,Urban Tadka,Indian,46,4.09,15,349
+1240,Pune,Burger Point,Italian,29,4.93,20,470
+1241,Pune,Tandoori Treats,Italian,30,3.7,20,451
+1242,Hyderabad,Curry House,South Indian,36,3.65,20,550
+1243,Bangalore,Tandoori Treats,Desserts,42,4.49,15,715
+1244,Bangalore,Tandoori Treats,Indian,34,4.91,20,845
+1245,Chennai,Tandoori Treats,South Indian,47,4.71,0,307
+1246,Hyderabad,Royal Bites,Italian,24,3.61,20,389
+1247,Pune,Royal Bites,Italian,54,3.92,5,660
+1248,Mumbai,Burger Point,Indian,46,4.9,15,665
+1249,Hyderabad,Spice Kitchen,Fast Food,47,3.88,5,611
+1250,Chennai,Tandoori Treats,Chinese,16,4.67,20,683
+1251,Chennai,Chaat Junction,Italian,47,4.74,0,463
+1252,Hyderabad,Taste of India,Desserts,47,4.24,10,672
+1253,Chennai,Chaat Junction,Desserts,55,4.08,20,414
+1254,Hyderabad,Spice Kitchen,Italian,27,4.18,0,634
+1255,Mysore,Burger Point,Fast Food,44,3.84,15,736
+1256,Hyderabad,Dosa Corner,Fast Food,47,4.83,5,631
+1257,Hyderabad,Dosa Corner,South Indian,27,4.18,5,357
+1258,Chennai,Biryani Palace,Desserts,40,4.82,5,493
+1259,Chennai,Chaat Junction,South Indian,36,3.66,15,379
+1260,Bangalore,Spice Kitchen,Desserts,53,4.98,0,386
+1261,Bangalore,Spice Kitchen,Chinese,16,4.16,15,587
+1262,Mysore,Food Factory,Chinese,52,3.57,5,692
+1263,Bangalore,Pizza Hub,Indian,53,3.56,20,515
+1264,Hyderabad,Street Eats,South Indian,40,4.62,10,392
+1265,Chennai,Cafe Delight,Italian,29,4.49,15,415
+1266,Bangalore,Food Factory,South Indian,48,4.7,15,513
+1267,Bangalore,Curry House,Italian,56,3.66,0,402
+1268,Mysore,Royal Bites,Fast Food,58,3.55,0,463
+1269,Pune,Royal Bites,South Indian,54,4.26,15,611
+1270,Mysore,Pizza Hub,Fast Food,25,4.08,5,548
+1271,Hyderabad,Urban Tadka,Chinese,17,4.19,10,716
+1272,Chennai,Urban Tadka,Chinese,20,4.99,0,329
+1273,Mysore,Burger Point,Indian,23,4.96,5,428
+1274,Bangalore,Flavour Town,South Indian,20,4.91,20,729
+1275,Chennai,Pizza Hub,Fast Food,23,4.68,0,669
+1276,Chennai,Street Eats,Italian,53,4.03,5,519
+1277,Bangalore,Spice Kitchen,Chinese,45,4.12,5,338
+1278,Mysore,Urban Tadka,Chinese,46,4.32,10,477
+1279,Bangalore,Street Eats,Italian,55,4.75,10,757
+1280,Pune,Tandoori Treats,Fast Food,26,3.6,20,783
+1281,Chennai,Chaat Junction,Fast Food,22,4.14,5,724
+1282,Mumbai,Chaat Junction,South Indian,22,3.62,5,518
+1283,Mumbai,Flavour Town,South Indian,42,4.27,10,334
+1284,Hyderabad,Taste of India,Desserts,34,4.85,0,526
+1285,Bangalore,Spice Kitchen,Desserts,21,4.67,0,371
+1286,Bangalore,Cafe Delight,Indian,25,3.84,15,469
+1287,Hyderabad,Cafe Delight,Chinese,34,4.96,10,633
+1288,Hyderabad,Curry House,South Indian,30,4.5,15,414
+1289,Hyderabad,Cafe Delight,Fast Food,18,3.52,10,708
+1290,Chennai,Tandoori Treats,Italian,20,3.88,20,674
+1291,Pune,Tandoori Treats,Fast Food,36,3.89,5,348
+1292,Bangalore,Chaat Junction,Chinese,40,3.6,20,431
+1293,Chennai,Pizza Hub,Desserts,17,4.94,10,822
+1294,Hyderabad,Flavour Town,Fast Food,55,4.22,5,486
+1295,Bangalore,Burger Point,Indian,56,4.84,0,353
+1296,Chennai,Curry House,Chinese,28,3.98,0,476
+1297,Pune,Urban Tadka,Desserts,25,3.69,15,643
+1298,Chennai,Street Eats,Italian,32,4.21,10,726
+1299,Pune,Pizza Hub,Desserts,26,3.67,10,537
+1300,Hyderabad,Urban Tadka,Indian,37,4.23,0,495
+1301,Pune,Pizza Hub,Chinese,26,4.88,20,416
+1302,Bangalore,Pizza Hub,Italian,27,4.28,5,318
+1303,Hyderabad,Pizza Hub,Indian,39,4.42,20,471
+1304,Bangalore,Chaat Junction,Desserts,59,3.73,20,335
+1305,Mumbai,Cafe Delight,Indian,33,3.57,0,680
+1306,Mysore,Flavour Town,Chinese,50,3.67,0,470
+1307,Pune,Burger Point,South Indian,59,4.4,0,362
+1308,Mysore,Cafe Delight,Indian,22,3.64,15,504
+1309,Mysore,Pizza Hub,Indian,43,4.06,20,568
+1310,Pune,Biryani Palace,Desserts,46,4.33,10,557
+1311,Hyderabad,Taste of India,Desserts,58,4.08,5,598
+1312,Mumbai,Urban Tadka,Italian,32,3.75,15,668
+1313,Bangalore,Spice Kitchen,Desserts,20,3.91,10,381
+1314,Chennai,Food Factory,Fast Food,32,4.89,20,417
+1315,Bangalore,Cafe Delight,Chinese,33,4.51,0,640
+1316,Chennai,Street Eats,Chinese,36,4.24,20,531
+1317,Bangalore,Chaat Junction,South Indian,51,3.52,5,323
+1318,Pune,Curry House,South Indian,46,4.99,15,537
+1319,Mumbai,Royal Bites,Chinese,55,4.51,15,610
+1320,Chennai,Burger Point,South Indian,17,3.98,5,380
+1321,Hyderabad,Spice Kitchen,Italian,42,4.82,10,696
+1322,Bangalore,Tandoori Treats,Desserts,24,3.89,10,577
+1323,Bangalore,Dosa Corner,Chinese,49,4.32,15,386
+1324,Chennai,Biryani Palace,South Indian,43,4.45,15,534
+1325,Hyderabad,Royal Bites,Chinese,29,3.83,0,587
+1326,Hyderabad,Food Factory,Fast Food,47,4.97,10,528
+1327,Pune,Spice Kitchen,Indian,21,4.62,5,423
+1328,Pune,Royal Bites,Desserts,26,4.34,10,787
+1329,Pune,Spice Kitchen,Chinese,44,3.77,0,579
+1330,Pune,Street Eats,Indian,35,3.58,15,464
+1331,Pune,Biryani Palace,South Indian,45,3.98,15,686
+1332,Pune,Food Factory,Indian,38,4.63,0,377
+1333,Mumbai,Tandoori Treats,Desserts,34,3.9,5,563
+1334,Hyderabad,Pizza Hub,Chinese,51,4.31,15,354
+1335,Pune,Urban Tadka,Fast Food,18,4.59,20,722
+1336,Hyderabad,Tandoori Treats,South Indian,42,3.66,15,678
+1337,Hyderabad,Pizza Hub,Chinese,58,4.53,20,734
+1338,Mysore,Dosa Corner,Desserts,34,3.64,0,407
+1339,Mumbai,Chaat Junction,South Indian,38,4.95,0,691
+1340,Pune,Flavour Town,Italian,46,4.23,15,598
+1341,Bangalore,Flavour Town,Indian,55,3.73,10,390
+1342,Chennai,Flavour Town,Desserts,50,4.01,20,720
+1343,Bangalore,Burger Point,Italian,48,4.12,5,566
+1344,Mumbai,Cafe Delight,Chinese,50,4.64,15,408
+1345,Chennai,Taste of India,Fast Food,16,4.62,5,464
+1346,Mumbai,Curry House,South Indian,29,4.42,15,720
+1347,Hyderabad,Curry House,Indian,48,3.66,10,560
+1348,Chennai,Cafe Delight,South Indian,50,3.73,10,395
+1349,Hyderabad,Flavour Town,Chinese,20,3.64,10,619
+1350,Bangalore,Urban Tadka,South Indian,53,4.37,10,555
+1351,Bangalore,Food Factory,Indian,56,4.82,0,610
+1352,Chennai,Biryani Palace,Chinese,26,4.15,0,733
+1353,Chennai,Food Factory,South Indian,17,3.74,20,796
+1354,Pune,Biryani Palace,Fast Food,59,4.34,5,523
+1355,Mumbai,Food Factory,Desserts,32,4.72,15,382
+1356,Pune,Taste of India,Chinese,54,4.61,15,484
+1357,Mumbai,Burger Point,Desserts,35,4.82,0,661
+1358,Pune,Burger Point,Chinese,29,3.92,15,354
+1359,Hyderabad,Flavour Town,Fast Food,47,3.79,0,596
+1360,Chennai,Dosa Corner,Desserts,49,4.82,20,476
+1361,Bangalore,Pizza Hub,Italian,40,4.49,5,626
+1362,Mumbai,Dosa Corner,Indian,22,3.97,20,808
+1363,Mumbai,Royal Bites,Italian,50,4.61,10,362
+1364,Bangalore,Burger Point,South Indian,44,4.72,10,415
+1365,Pune,Burger Point,Fast Food,37,4.42,10,518
+1366,Mumbai,Tandoori Treats,Italian,56,4.53,20,447
+1367,Hyderabad,Tandoori Treats,Chinese,58,4.06,15,404
+1368,Chennai,Pizza Hub,South Indian,28,4.31,5,554
+1369,Bangalore,Street Eats,South Indian,28,4.29,10,679
+1370,Chennai,Royal Bites,Italian,16,4.77,10,463
+1371,Mumbai,Dosa Corner,Italian,51,4.76,10,414
+1372,Mumbai,Urban Tadka,Fast Food,19,4.75,5,385
+1373,Bangalore,Tandoori Treats,Indian,52,3.52,10,414
+1374,Hyderabad,Urban Tadka,Italian,59,4.62,5,709
+1375,Mysore,Spice Kitchen,Italian,55,4.64,10,392
+1376,Bangalore,Tandoori Treats,Desserts,28,4.52,20,432
+1377,Mysore,Taste of India,Chinese,53,4.63,20,471
+1378,Pune,Street Eats,Desserts,39,4.76,5,473
+1379,Mysore,Royal Bites,Desserts,34,4.21,20,802
+1380,Hyderabad,Chaat Junction,South Indian,16,4.25,5,579
+1381,Pune,Pizza Hub,Indian,53,3.69,20,504
+1382,Mysore,Spice Kitchen,Chinese,20,4.08,20,604
+1383,Pune,Chaat Junction,Fast Food,31,4.47,5,485
+1384,Mysore,Royal Bites,Fast Food,39,4.67,15,616
+1385,Hyderabad,Dosa Corner,Italian,42,3.83,20,711
+1386,Mysore,Flavour Town,Italian,16,3.71,10,650
+1387,Mysore,Taste of India,Fast Food,49,4.49,15,399
+1388,Mysore,Royal Bites,Italian,51,3.5,5,684
+1389,Bangalore,Taste of India,Indian,19,3.77,15,443
+1390,Bangalore,Cafe Delight,Desserts,15,3.54,0,550
+1391,Bangalore,Taste of India,Italian,54,3.75,0,335
+1392,Hyderabad,Urban Tadka,South Indian,26,3.77,20,523
+1393,Pune,Cafe Delight,Italian,50,4.08,20,729
+1394,Mumbai,Food Factory,Chinese,59,4.1,10,641
+1395,Mysore,Chaat Junction,Indian,37,4.81,15,736
+1396,Mysore,Flavour Town,Chinese,45,4.27,0,406
+1397,Hyderabad,Cafe Delight,Chinese,25,4.59,20,575
+1398,Mysore,Dosa Corner,South Indian,24,3.66,15,351
+1399,Bangalore,Spice Kitchen,Indian,17,3.84,20,610
+1400,Mumbai,Royal Bites,Indian,28,4.55,20,662
+1401,Chennai,Biryani Palace,Indian,30,3.58,0,694
+1402,Mysore,Spice Kitchen,Indian,24,4.23,0,537
+1403,Bangalore,Food Factory,Indian,43,4.4,20,620
+1404,Chennai,Spice Kitchen,South Indian,24,4.4,5,476
+1405,Mumbai,Burger Point,Italian,26,3.53,20,393
+1406,Chennai,Dosa Corner,Chinese,44,3.98,20,484
+1407,Bangalore,Biryani Palace,Indian,55,4.45,10,471
+1408,Pune,Cafe Delight,Italian,15,3.72,10,418
+1409,Pune,Cafe Delight,Italian,19,4.54,10,450
+1410,Chennai,Cafe Delight,Chinese,34,4.62,5,645
+1411,Hyderabad,Food Factory,South Indian,22,4.97,5,587
+1412,Chennai,Urban Tadka,Fast Food,57,3.81,20,656
+1413,Mysore,Chaat Junction,Fast Food,26,4.74,10,761
+1414,Mysore,Royal Bites,Italian,15,4.28,5,444
+1415,Pune,Street Eats,Desserts,34,4.06,0,364
+1416,Hyderabad,Curry House,Desserts,42,3.68,20,508
+1417,Bangalore,Chaat Junction,Chinese,57,4.6,15,438
+1418,Mysore,Food Factory,Fast Food,51,3.85,20,454
+1419,Pune,Pizza Hub,Italian,51,4.06,15,684
+1420,Mumbai,Dosa Corner,South Indian,26,3.59,10,402
+1421,Pune,Royal Bites,Fast Food,51,4.7,15,696
+1422,Mysore,Chaat Junction,Italian,58,4.65,10,521
+1423,Mysore,Flavour Town,Italian,42,4.6,0,299
+1424,Pune,Food Factory,Indian,29,3.95,15,621
+1425,Bangalore,Burger Point,South Indian,20,3.76,20,548
+1426,Chennai,Curry House,Indian,58,4.46,10,423
+1427,Mysore,Burger Point,Chinese,34,4.24,20,726
+1428,Pune,Cafe Delight,Indian,28,3.77,5,472
+1429,Pune,Curry House,Indian,16,4.53,10,452
+1430,Hyderabad,Chaat Junction,Fast Food,23,4.99,15,478
+1431,Chennai,Flavour Town,Desserts,51,4.62,10,646
+1432,Mumbai,Cafe Delight,Italian,34,4.61,20,841
+1433,Bangalore,Street Eats,South Indian,40,4.93,0,412
+1434,Mumbai,Dosa Corner,Indian,43,3.8,10,556
+1435,Chennai,Pizza Hub,South Indian,15,4.35,15,438
+1436,Chennai,Royal Bites,Desserts,49,4.97,5,467
+1437,Chennai,Urban Tadka,Desserts,20,3.75,0,640
+1438,Mumbai,Burger Point,Indian,51,4.55,5,698
+1439,Chennai,Burger Point,Chinese,19,4.38,10,467
+1440,Pune,Cafe Delight,Indian,47,4.38,20,710
+1441,Mumbai,Taste of India,Fast Food,28,4.55,20,663
+1442,Chennai,Curry House,Italian,26,4.89,15,703
+1443,Pune,Tandoori Treats,Chinese,56,4.67,20,571
+1444,Hyderabad,Street Eats,Indian,34,3.58,0,292
+1445,Chennai,Royal Bites,South Indian,38,4.78,20,499
+1446,Mumbai,Curry House,Chinese,57,3.84,15,698
+1447,Mysore,Taste of India,Chinese,48,4.07,10,682
+1448,Chennai,Spice Kitchen,Indian,39,4.19,10,512
+1449,Mysore,Curry House,Chinese,43,4.22,20,767
+1450,Pune,Urban Tadka,South Indian,53,4.15,5,554
+1451,Hyderabad,Royal Bites,Desserts,45,4.91,10,695
+1452,Bangalore,Chaat Junction,Chinese,57,4.56,20,600
+1453,Hyderabad,Street Eats,Desserts,37,4.45,15,782
+1454,Chennai,Taste of India,South Indian,58,3.57,20,543
+1455,Mysore,Spice Kitchen,Indian,52,4.86,10,399
+1456,Mysore,Dosa Corner,Italian,34,4.86,15,574
+1457,Mumbai,Biryani Palace,Chinese,37,4.67,20,647
+1458,Mysore,Taste of India,Italian,59,3.51,0,357
+1459,Mumbai,Biryani Palace,South Indian,30,3.59,15,643
+1460,Pune,Royal Bites,Chinese,56,3.84,0,670
+1461,Bangalore,Burger Point,Desserts,22,3.7,5,444
+1462,Chennai,Taste of India,Fast Food,35,4.1,15,445
+1463,Mumbai,Dosa Corner,Italian,15,4.88,0,402
+1464,Bangalore,Pizza Hub,Chinese,22,4.21,10,623
+1465,Mysore,Cafe Delight,Italian,43,3.52,10,659
+1466,Mysore,Biryani Palace,Chinese,46,3.92,5,678
+1467,Bangalore,Cafe Delight,Indian,52,3.57,15,413
+1468,Mysore,Urban Tadka,Desserts,19,3.55,15,531
+1469,Pune,Pizza Hub,Italian,36,3.91,15,536
+1470,Pune,Cafe Delight,Fast Food,48,3.91,5,575
+1471,Bangalore,Food Factory,Fast Food,15,4.68,15,720
+1472,Mumbai,Food Factory,South Indian,40,4.96,10,503
+1473,Mumbai,Spice Kitchen,Chinese,57,4.06,0,283
+1474,Bangalore,Street Eats,Italian,24,4.14,10,468
+1475,Mumbai,Burger Point,South Indian,44,4.77,10,742
+1476,Mumbai,Royal Bites,Italian,32,3.9,0,398
+1477,Pune,Taste of India,Chinese,31,3.73,10,590
+1478,Mumbai,Tandoori Treats,Fast Food,40,4.78,5,679
+1479,Hyderabad,Urban Tadka,Indian,22,3.57,0,349
+1480,Chennai,Biryani Palace,Fast Food,54,4.43,10,710
+1481,Mysore,Royal Bites,South Indian,26,4.34,20,633
+1482,Hyderabad,Pizza Hub,Desserts,41,4.02,10,426
+1483,Mumbai,Flavour Town,Indian,22,3.97,5,415
+1484,Pune,Food Factory,South Indian,39,4.66,15,584
+1485,Bangalore,Flavour Town,Chinese,18,3.63,10,714
+1486,Mumbai,Dosa Corner,Indian,47,3.86,15,363
+1487,Pune,Urban Tadka,South Indian,15,4.6,20,783
+1488,Chennai,Tandoori Treats,Chinese,33,4.32,10,479
+1489,Mumbai,Taste of India,Fast Food,45,3.69,0,354
+1490,Bangalore,Spice Kitchen,Desserts,30,4.82,15,483
+1491,Pune,Tandoori Treats,Chinese,28,4.09,20,425
+1492,Pune,Urban Tadka,Italian,19,4.74,0,727
+1493,Pune,Tandoori Treats,Chinese,55,4.68,0,594
+1494,Chennai,Urban Tadka,Chinese,40,4.44,0,656
+1495,Mumbai,Urban Tadka,Desserts,42,4.24,0,539
+1496,Chennai,Curry House,Italian,16,4.97,10,799
+1497,Mysore,Biryani Palace,South Indian,20,3.72,10,708
+1498,Mysore,Chaat Junction,South Indian,23,4.59,10,550
+1499,Mumbai,Flavour Town,Chinese,47,3.79,20,711
+1500,Chennai,Chaat Junction,Italian,55,4.01,20,623
+1501,Bangalore,Chaat Junction,Italian,39,3.96,20,643
+1502,Pune,Chaat Junction,Desserts,27,4.92,5,378
+1503,Pune,Cafe Delight,Fast Food,23,4.95,20,866
+1504,Mumbai,Food Factory,South Indian,27,3.77,10,506
+1505,Mysore,Curry House,Desserts,45,3.53,10,450
+1506,Mysore,Taste of India,Indian,55,4.58,5,315
+1507,Pune,Curry House,South Indian,25,4.13,5,333
+1508,Mumbai,Burger Point,Desserts,18,3.63,20,376
+1509,Chennai,Burger Point,South Indian,48,4.53,15,670
+1510,Mysore,Cafe Delight,Fast Food,52,4.32,5,574
+1511,Chennai,Food Factory,Indian,18,4.97,0,767
+1512,Mysore,Tandoori Treats,Fast Food,52,3.84,10,723
+1513,Mysore,Biryani Palace,Indian,33,4.11,0,454
+1514,Hyderabad,Food Factory,Chinese,20,4.31,10,595
+1515,Mysore,Cafe Delight,Desserts,48,4.69,10,445
+1516,Bangalore,Urban Tadka,Indian,32,4.32,5,587
+1517,Mumbai,Pizza Hub,Fast Food,27,4.42,5,683
+1518,Mumbai,Biryani Palace,South Indian,55,3.84,0,305
+1519,Chennai,Street Eats,Indian,37,4.77,10,696
+1520,Mysore,Flavour Town,Desserts,33,4.14,0,529
+1521,Bangalore,Biryani Palace,Indian,59,3.71,15,482
+1522,Chennai,Cafe Delight,Italian,25,4.5,0,617
+1523,Hyderabad,Urban Tadka,South Indian,15,3.82,20,552
+1524,Chennai,Urban Tadka,Desserts,38,3.65,0,562
+1525,Chennai,Spice Kitchen,Desserts,21,4.79,20,664
+1526,Mysore,Chaat Junction,Chinese,39,4.19,20,557
+1527,Hyderabad,Food Factory,Fast Food,35,4.62,20,445
+1528,Chennai,Urban Tadka,Chinese,29,3.94,15,672
+1529,Bangalore,Burger Point,Desserts,15,4.68,0,675
+1530,Bangalore,Chaat Junction,South Indian,26,3.67,0,577
+1531,Mumbai,Taste of India,Indian,21,4.03,15,498
+1532,Hyderabad,Pizza Hub,Indian,29,4.97,10,531
+1533,Hyderabad,Cafe Delight,South Indian,35,4.69,5,710
+1534,Mumbai,Flavour Town,Desserts,33,4.25,0,382
+1535,Chennai,Food Factory,Indian,43,4.01,5,704
+1536,Hyderabad,Royal Bites,Indian,39,4.81,15,454
+1537,Bangalore,Burger Point,Indian,47,4.32,10,632
+1538,Bangalore,Dosa Corner,Fast Food,46,4.64,10,541
+1539,Mysore,Street Eats,Fast Food,49,4.63,10,328
+1540,Hyderabad,Tandoori Treats,Italian,58,3.53,15,679
+1541,Chennai,Urban Tadka,Chinese,52,3.69,20,513
+1542,Mumbai,Royal Bites,South Indian,40,4.49,20,722
+1543,Mumbai,Urban Tadka,South Indian,25,3.74,5,596
+1544,Chennai,Biryani Palace,South Indian,49,3.88,20,677
+1545,Pune,Burger Point,Italian,22,4.92,20,457
+1546,Mysore,Biryani Palace,Fast Food,28,4.34,10,759
+1547,Mumbai,Spice Kitchen,Desserts,24,4.63,10,594
+1548,Hyderabad,Biryani Palace,Desserts,16,4.34,5,497
+1549,Mysore,Spice Kitchen,Italian,23,4.33,0,691
+1550,Hyderabad,Street Eats,Desserts,17,3.64,5,642
+1551,Bangalore,Cafe Delight,South Indian,35,4.02,5,606
+1552,Mysore,Spice Kitchen,Chinese,40,3.92,15,638
+1553,Mumbai,Royal Bites,Indian,22,4.09,15,391
+1554,Mysore,Chaat Junction,Fast Food,16,4.7,5,532
+1555,Mysore,Urban Tadka,Fast Food,20,4.06,5,669
+1556,Mysore,Tandoori Treats,Italian,42,4.18,5,315
+1557,Pune,Chaat Junction,Fast Food,43,4.1,20,473
+1558,Mysore,Flavour Town,South Indian,40,3.64,15,732
+1559,Hyderabad,Cafe Delight,Desserts,39,4.16,5,728
+1560,Bangalore,Biryani Palace,South Indian,26,3.79,10,525
+1561,Chennai,Dosa Corner,Italian,19,3.78,10,512
+1562,Mysore,Flavour Town,South Indian,48,3.64,20,719
+1563,Mumbai,Burger Point,Desserts,51,4.04,20,728
+1564,Mysore,Spice Kitchen,Chinese,29,4.64,0,346
+1565,Mumbai,Urban Tadka,Italian,58,3.91,0,609
+1566,Hyderabad,Pizza Hub,Chinese,50,3.97,0,475
+1567,Mumbai,Food Factory,Indian,29,4.46,20,431
+1568,Chennai,Royal Bites,Chinese,57,3.79,20,348
+1569,Bangalore,Tandoori Treats,Indian,37,4.85,20,420
+1570,Mumbai,Curry House,Indian,20,4.28,10,559
+1571,Mumbai,Royal Bites,Chinese,58,4.17,20,656
+1572,Bangalore,Street Eats,Italian,57,4.34,10,453
+1573,Chennai,Pizza Hub,Desserts,59,3.75,0,469
+1574,Mysore,Dosa Corner,South Indian,35,4.42,0,555
+1575,Mumbai,Food Factory,South Indian,37,4.04,0,325
+1576,Bangalore,Pizza Hub,Desserts,57,4.85,5,586
+1577,Hyderabad,Biryani Palace,Indian,30,3.75,5,714
+1578,Bangalore,Spice Kitchen,Indian,29,4.26,15,561
+1579,Hyderabad,Cafe Delight,Italian,39,4.4,15,385
+1580,Chennai,Tandoori Treats,Fast Food,50,3.55,15,749
+1581,Mysore,Taste of India,Chinese,25,4.05,5,468
+1582,Bangalore,Spice Kitchen,Indian,29,4.6,5,578
+1583,Pune,Taste of India,South Indian,18,4.73,15,645
+1584,Mumbai,Flavour Town,Italian,35,3.97,15,349
+1585,Chennai,Cafe Delight,Chinese,27,4.7,20,543
+1586,Bangalore,Food Factory,Italian,36,4.95,15,388
+1587,Mumbai,Urban Tadka,Chinese,33,4.79,20,615
+1588,Bangalore,Curry House,Chinese,48,3.68,10,561
+1589,Hyderabad,Burger Point,Desserts,28,4.61,5,648
+1590,Bangalore,Chaat Junction,Indian,18,3.98,15,409
+1591,Pune,Cafe Delight,Italian,41,4.98,5,760
+1592,Bangalore,Spice Kitchen,Italian,43,4.23,5,402
+1593,Bangalore,Tandoori Treats,Desserts,42,3.68,5,423
+1594,Pune,Chaat Junction,South Indian,49,4.59,10,446
+1595,Chennai,Street Eats,South Indian,22,3.98,0,686
+1596,Bangalore,Street Eats,Indian,30,5.0,15,745
+1597,Pune,Pizza Hub,Indian,56,4.97,0,382
+1598,Mumbai,Chaat Junction,Fast Food,50,4.48,0,509
+1599,Hyderabad,Tandoori Treats,Desserts,44,3.69,0,564
+1600,Hyderabad,Food Factory,South Indian,32,4.53,5,507
